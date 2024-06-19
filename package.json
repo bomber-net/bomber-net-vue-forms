@@ -1,7 +1,7 @@
 {
 	"name":"bomber-net-vue-forms",
 	"private":false,
-	"version":"2.16.5",
+	"version":"2.16.6",
 	"type":"module",
 	"dependencies":{
 		"@vitejs/plugin-vue":"^4.0.0",
